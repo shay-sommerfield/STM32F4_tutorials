@@ -112,7 +112,6 @@ int main(void)
       HAL_Delay(delayTime);
     }
     /* USER CODE BEGIN 3 */
-    delayTime *= 0.99;
   }
   /* USER CODE END 3 */
 }
